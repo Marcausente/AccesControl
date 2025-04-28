@@ -1,0 +1,11 @@
+﻿<Window x:Class="AccessControl.Login"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Login" Height="350" Width="525">
+    <Grid>
+        <TextBox Name="UserName" HorizontalAlignment="Left" Height="27" TextWrapping="Wrap" Text="UserName" VerticalAlignment="Top" Width="342" Margin="87,82,0,0" GotFocus="UserName_GotFocus"/>
+        <Button Name="LoginButton" Content="Login" HorizontalAlignment="Left" Height="30" Margin="87,146,0,0" VerticalAlignment="Top" Width="342" Click="LoginButton_Click" />
+        <PasswordBox x:Name="Password" HorizontalAlignment="Left" Height="27" Margin="87,114,0,0" VerticalAlignment="Top" Width="342"/>
+
+    </Grid>
+</Window>

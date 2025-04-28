@@ -1,0 +1,73 @@
+C:\Users\Roger\Dropbox\La Salle - 15_16\DAM_M9\UF1\01_Exercicis\Ex1. Control d'accés\AccessControl\AccessControl\AccessControl\bin\Debug\AccessControl.exe.config
+C:\Users\Roger\Dropbox\La Salle - 15_16\DAM_M9\UF1\01_Exercicis\Ex1. Control d'accés\AccessControl\AccessControl\AccessControl\bin\Debug\AccessControl.exe
+C:\Users\Roger\Dropbox\La Salle - 15_16\DAM_M9\UF1\01_Exercicis\Ex1. Control d'accés\AccessControl\AccessControl\AccessControl\bin\Debug\AccessControl.pdb
+C:\Users\Roger\Dropbox\La Salle - 15_16\DAM_M9\UF1\01_Exercicis\Ex1. Control d'accés\AccessControl\AccessControl\AccessControl\obj\Debug\AccessControl.csprojResolveAssemblyReference.cache
+C:\Users\Roger\Dropbox\La Salle - 15_16\DAM_M9\UF1\01_Exercicis\Ex1. Control d'accés\AccessControl\AccessControl\AccessControl\obj\Debug\Register.baml
+C:\Users\Roger\Dropbox\La Salle - 15_16\DAM_M9\UF1\01_Exercicis\Ex1. Control d'accés\AccessControl\AccessControl\AccessControl\obj\Debug\Register.g.cs
+C:\Users\Roger\Dropbox\La Salle - 15_16\DAM_M9\UF1\01_Exercicis\Ex1. Control d'accés\AccessControl\AccessControl\AccessControl\obj\Debug\App.g.cs
+C:\Users\Roger\Dropbox\La Salle - 15_16\DAM_M9\UF1\01_Exercicis\Ex1. Control d'accés\AccessControl\AccessControl\AccessControl\obj\Debug\AccessControl_MarkupCompile.cache
+C:\Users\Roger\Dropbox\La Salle - 15_16\DAM_M9\UF1\01_Exercicis\Ex1. Control d'accés\AccessControl\AccessControl\AccessControl\obj\Debug\AccessControl.g.resources
+C:\Users\Roger\Dropbox\La Salle - 15_16\DAM_M9\UF1\01_Exercicis\Ex1. Control d'accés\AccessControl\AccessControl\AccessControl\obj\Debug\AccessControl.Properties.Resources.resources
+C:\Users\Roger\Dropbox\La Salle - 15_16\DAM_M9\UF1\01_Exercicis\Ex1. Control d'accés\AccessControl\AccessControl\AccessControl\obj\Debug\AccessControl.csproj.GenerateResource.Cache
+C:\Users\Roger\Dropbox\La Salle - 15_16\DAM_M9\UF1\01_Exercicis\Ex1. Control d'accés\AccessControl\AccessControl\AccessControl\obj\Debug\AccessControl.exe
+C:\Users\Roger\Dropbox\La Salle - 15_16\DAM_M9\UF1\01_Exercicis\Ex1. Control d'accés\AccessControl\AccessControl\AccessControl\obj\Debug\AccessControl.pdb
+C:\Users\Roger\Dropbox\La Salle - 15_16\DAM_M9\UF1\01_Exercicis\Ex1. Control d'accés\AccessControl\AccessControl\AccessControl\obj\Debug\Login.baml
+C:\Users\Roger\Dropbox\La Salle - 15_16\DAM_M9\UF1\01_Exercicis\Ex1. Control d'accés\AccessControl\AccessControl\AccessControl\obj\Debug\Menu.baml
+C:\Users\Roger\Dropbox\La Salle - 15_16\DAM_M9\UF1\01_Exercicis\Ex1. Control d'accés\AccessControl\AccessControl\AccessControl\obj\Debug\Login.g.cs
+C:\Users\Roger\Dropbox\La Salle - 15_16\DAM_M9\UF1\01_Exercicis\Ex1. Control d'accés\AccessControl\AccessControl\AccessControl\obj\Debug\Menu.g.cs
+C:\Users\Roger\Dropbox\La Salle - 15_16\DAM_M9\UF1\01_Exercicis\Ex1. Control d'accés - alumne\AccessControl\AccessControl\AccessControl\bin\Debug\AccessControl.exe.config
+C:\Users\Roger\Dropbox\La Salle - 15_16\DAM_M9\UF1\01_Exercicis\Ex1. Control d'accés - alumne\AccessControl\AccessControl\AccessControl\obj\Debug\AccessControl.exe
+C:\Users\Roger\Dropbox\La Salle - 15_16\DAM_M9\UF1\01_Exercicis\Ex1. Control d'accés - alumne\AccessControl\AccessControl\AccessControl\obj\Debug\AccessControl.pdb
+C:\Users\Roger\Dropbox\La Salle - 15_16\DAM_M9\UF1\01_Exercicis\Ex1. Control d'accés\Ex1. Control d'accés - alumne\AccessControl\AccessControl\AccessControl\bin\Debug\AccessControl.exe.config
+C:\Users\Roger\Dropbox\La Salle - 15_16\DAM_M9\UF1\01_Exercicis\Ex1. Control d'accés\Ex1. Control d'accés - alumne\AccessControl\AccessControl\AccessControl\obj\Debug\AccessControl.exe
+C:\Users\Roger\Dropbox\La Salle - 15_16\DAM_M9\UF1\01_Exercicis\Ex1. Control d'accés\Ex1. Control d'accés - alumne\AccessControl\AccessControl\AccessControl\obj\Debug\AccessControl.pdb
+C:\Users\Roger\Dropbox\La Salle - 15_16\DAM_M9\UF1\01_Exercicis\Ex1. Control d'accés\Ex1. Control d'accés - alumne\AccessControl\AccessControl\AccessControl\bin\Debug\AccessControl.exe
+C:\Users\Roger\Dropbox\La Salle - 15_16\DAM_M9\UF1\01_Exercicis\Ex1. Control d'accés\Ex1. Control d'accés - alumne\AccessControl\AccessControl\AccessControl\bin\Debug\AccessControl.pdb
+C:\Users\Roger\Dropbox\La Salle - 15_16\DAM_M9\UF1\01_Exercicis\Ex1. Control d'accés\Ex1. Control d'accés - alumne\AccessControl\AccessControl\AccessControl\obj\Debug\AccessControl.csprojResolveAssemblyReference.cache
+C:\Users\Roger\Dropbox\La Salle - 15_16\DAM_M9\UF1\01_Exercicis\Ex1. Control d'accés\Ex1. Control d'accés - alumne\AccessControl\AccessControl\AccessControl\obj\Debug\Login.baml
+C:\Users\Roger\Dropbox\La Salle - 15_16\DAM_M9\UF1\01_Exercicis\Ex1. Control d'accés\Ex1. Control d'accés - alumne\AccessControl\AccessControl\AccessControl\obj\Debug\Menu.baml
+C:\Users\Roger\Dropbox\La Salle - 15_16\DAM_M9\UF1\01_Exercicis\Ex1. Control d'accés\Ex1. Control d'accés - alumne\AccessControl\AccessControl\AccessControl\obj\Debug\Register.baml
+C:\Users\Roger\Dropbox\La Salle - 15_16\DAM_M9\UF1\01_Exercicis\Ex1. Control d'accés\Ex1. Control d'accés - alumne\AccessControl\AccessControl\AccessControl\obj\Debug\Login.g.cs
+C:\Users\Roger\Dropbox\La Salle - 15_16\DAM_M9\UF1\01_Exercicis\Ex1. Control d'accés\Ex1. Control d'accés - alumne\AccessControl\AccessControl\AccessControl\obj\Debug\Menu.g.cs
+C:\Users\Roger\Dropbox\La Salle - 15_16\DAM_M9\UF1\01_Exercicis\Ex1. Control d'accés\Ex1. Control d'accés - alumne\AccessControl\AccessControl\AccessControl\obj\Debug\Register.g.cs
+C:\Users\Roger\Dropbox\La Salle - 15_16\DAM_M9\UF1\01_Exercicis\Ex1. Control d'accés\Ex1. Control d'accés - alumne\AccessControl\AccessControl\AccessControl\obj\Debug\App.g.cs
+C:\Users\Roger\Dropbox\La Salle - 15_16\DAM_M9\UF1\01_Exercicis\Ex1. Control d'accés\Ex1. Control d'accés - alumne\AccessControl\AccessControl\AccessControl\obj\Debug\AccessControl_MarkupCompile.cache
+C:\Users\Roger\Dropbox\La Salle - 15_16\DAM_M9\UF1\01_Exercicis\Ex1. Control d'accés\Ex1. Control d'accés - alumne\AccessControl\AccessControl\AccessControl\obj\Debug\AccessControl.g.resources
+C:\Users\Roger\Dropbox\La Salle - 15_16\DAM_M9\UF1\01_Exercicis\Ex1. Control d'accés\Ex1. Control d'accés - alumne\AccessControl\AccessControl\AccessControl\obj\Debug\AccessControl.Properties.Resources.resources
+C:\Users\Roger\Dropbox\La Salle - 15_16\DAM_M9\UF1\01_Exercicis\Ex1. Control d'accés\Ex1. Control d'accés - alumne\AccessControl\AccessControl\AccessControl\obj\Debug\AccessControl.csproj.GenerateResource.Cache
+C:\Users\Roger\Dropbox\La Salle - 16_17\DAM - M9\UF1\01_Exercicis\Ex1. Control d'accés\Ex1. Control d'accés - alumne\AccessControl\AccessControl\AccessControl\bin\Debug\AccessControl.exe.config
+C:\Users\Roger\Dropbox\La Salle - 16_17\DAM - M9\UF1\01_Exercicis\Ex1. Control d'accés\Ex1. Control d'accés - alumne\AccessControl\AccessControl\AccessControl\obj\Debug\AccessControl.exe
+C:\Users\Roger\Dropbox\La Salle - 16_17\DAM - M9\UF1\01_Exercicis\Ex1. Control d'accés\Ex1. Control d'accés - alumne\AccessControl\AccessControl\AccessControl\obj\Debug\AccessControl.pdb
+C:\Users\Roger\Dropbox\La Salle - 16_17\DAM - M9\UF1\01_Exercicis\Ex1. Control d'accés\Ex1. Control d'accés - alumne\AccessControl\AccessControl\AccessControl\obj\Debug\AccessControl.csprojResolveAssemblyReference.cache
+C:\Users\Roger\Dropbox\La Salle - 16_17\DAM - M9\UF1\01_Exercicis\Ex1. Control d'accés\Ex1. Control d'accés - alumne\AccessControl\AccessControl\AccessControl\obj\Debug\Login.baml
+C:\Users\Roger\Dropbox\La Salle - 16_17\DAM - M9\UF1\01_Exercicis\Ex1. Control d'accés\Ex1. Control d'accés - alumne\AccessControl\AccessControl\AccessControl\obj\Debug\Menu.baml
+C:\Users\Roger\Dropbox\La Salle - 16_17\DAM - M9\UF1\01_Exercicis\Ex1. Control d'accés\Ex1. Control d'accés - alumne\AccessControl\AccessControl\AccessControl\obj\Debug\Register.baml
+C:\Users\Roger\Dropbox\La Salle - 16_17\DAM - M9\UF1\01_Exercicis\Ex1. Control d'accés\Ex1. Control d'accés - alumne\AccessControl\AccessControl\AccessControl\obj\Debug\Login.g.cs
+C:\Users\Roger\Dropbox\La Salle - 16_17\DAM - M9\UF1\01_Exercicis\Ex1. Control d'accés\Ex1. Control d'accés - alumne\AccessControl\AccessControl\AccessControl\obj\Debug\Menu.g.cs
+C:\Users\Roger\Dropbox\La Salle - 16_17\DAM - M9\UF1\01_Exercicis\Ex1. Control d'accés\Ex1. Control d'accés - alumne\AccessControl\AccessControl\AccessControl\obj\Debug\Register.g.cs
+C:\Users\Roger\Dropbox\La Salle - 16_17\DAM - M9\UF1\01_Exercicis\Ex1. Control d'accés\Ex1. Control d'accés - alumne\AccessControl\AccessControl\AccessControl\obj\Debug\App.g.cs
+C:\Users\Roger\Dropbox\La Salle - 16_17\DAM - M9\UF1\01_Exercicis\Ex1. Control d'accés\Ex1. Control d'accés - alumne\AccessControl\AccessControl\AccessControl\obj\Debug\AccessControl_MarkupCompile.cache
+C:\Users\Roger\Dropbox\La Salle - 16_17\DAM - M9\UF1\01_Exercicis\Ex1. Control d'accés\Ex1. Control d'accés - alumne\AccessControl\AccessControl\AccessControl\obj\Debug\AccessControl.g.resources
+C:\Users\Roger\Dropbox\La Salle - 16_17\DAM - M9\UF1\01_Exercicis\Ex1. Control d'accés\Ex1. Control d'accés - alumne\AccessControl\AccessControl\AccessControl\obj\Debug\AccessControl.Properties.Resources.resources
+C:\Users\Roger\Dropbox\La Salle - 16_17\DAM - M9\UF1\01_Exercicis\Ex1. Control d'accés\Ex1. Control d'accés - alumne\AccessControl\AccessControl\AccessControl\obj\Debug\AccessControl.csproj.GenerateResource.Cache
+C:\Users\Roger\Dropbox\La Salle - 16_17\DAM - M9\UF1\01_Exercicis\Ex1. Control d'accés\Ex1. Control d'accés - alumne\AccessControl\AccessControl\AccessControl\bin\Debug\AccessControl.exe
+C:\Users\Roger\Dropbox\La Salle - 16_17\DAM - M9\UF1\01_Exercicis\Ex1. Control d'accés\Ex1. Control d'accés - alumne\AccessControl\AccessControl\AccessControl\bin\Debug\AccessControl.pdb
+C:\Users\Roger\Dropbox\La Salle - 17_18\DAM - M9\UF1\01_Exercicis\Ex2. Control d'accés\Ex2. Control d'accés - alumne\AccessControl\AccessControl\AccessControl\bin\Debug\AccessControl.exe.config
+C:\Users\Roger\Dropbox\La Salle - 17_18\DAM - M9\UF1\01_Exercicis\Ex2. Control d'accés\Ex2. Control d'accés - alumne\AccessControl\AccessControl\AccessControl\obj\Debug\AccessControl.exe
+C:\Users\Roger\Dropbox\La Salle - 17_18\DAM - M9\UF1\01_Exercicis\Ex2. Control d'accés\Ex2. Control d'accés - alumne\AccessControl\AccessControl\AccessControl\obj\Debug\AccessControl.pdb
+C:\Users\Roger\Dropbox\La Salle - 17_18\DAM - M9\UF1\01_Exercicis\Ex2. Control d'accés\Ex2. Control d'accés - alumne\AccessControl\AccessControl\AccessControl\bin\Debug\AccessControl.exe
+C:\Users\Roger\Dropbox\La Salle - 17_18\DAM - M9\UF1\01_Exercicis\Ex2. Control d'accés\Ex2. Control d'accés - alumne\AccessControl\AccessControl\AccessControl\bin\Debug\AccessControl.pdb
+C:\Users\Roger\Dropbox\La Salle - 17_18\DAM - M9\UF1\01_Exercicis\Ex2. Control d'accés\Ex2. Control d'accés - alumne\AccessControl\AccessControl\AccessControl\obj\Debug\AccessControl.csprojResolveAssemblyReference.cache
+C:\Users\Roger\Dropbox\La Salle - 17_18\DAM - M9\UF1\01_Exercicis\Ex2. Control d'accés\Ex2. Control d'accés - alumne\AccessControl\AccessControl\AccessControl\obj\Debug\Login.baml
+C:\Users\Roger\Dropbox\La Salle - 17_18\DAM - M9\UF1\01_Exercicis\Ex2. Control d'accés\Ex2. Control d'accés - alumne\AccessControl\AccessControl\AccessControl\obj\Debug\Menu.baml
+C:\Users\Roger\Dropbox\La Salle - 17_18\DAM - M9\UF1\01_Exercicis\Ex2. Control d'accés\Ex2. Control d'accés - alumne\AccessControl\AccessControl\AccessControl\obj\Debug\Register.baml
+C:\Users\Roger\Dropbox\La Salle - 17_18\DAM - M9\UF1\01_Exercicis\Ex2. Control d'accés\Ex2. Control d'accés - alumne\AccessControl\AccessControl\AccessControl\obj\Debug\Login.g.cs
+C:\Users\Roger\Dropbox\La Salle - 17_18\DAM - M9\UF1\01_Exercicis\Ex2. Control d'accés\Ex2. Control d'accés - alumne\AccessControl\AccessControl\AccessControl\obj\Debug\Menu.g.cs
+C:\Users\Roger\Dropbox\La Salle - 17_18\DAM - M9\UF1\01_Exercicis\Ex2. Control d'accés\Ex2. Control d'accés - alumne\AccessControl\AccessControl\AccessControl\obj\Debug\Register.g.cs
+C:\Users\Roger\Dropbox\La Salle - 17_18\DAM - M9\UF1\01_Exercicis\Ex2. Control d'accés\Ex2. Control d'accés - alumne\AccessControl\AccessControl\AccessControl\obj\Debug\App.g.cs
+C:\Users\Roger\Dropbox\La Salle - 17_18\DAM - M9\UF1\01_Exercicis\Ex2. Control d'accés\Ex2. Control d'accés - alumne\AccessControl\AccessControl\AccessControl\obj\Debug\AccessControl_MarkupCompile.cache
+C:\Users\Roger\Dropbox\La Salle - 17_18\DAM - M9\UF1\01_Exercicis\Ex2. Control d'accés\Ex2. Control d'accés - alumne\AccessControl\AccessControl\AccessControl\obj\Debug\AccessControl.g.resources
+C:\Users\Roger\Dropbox\La Salle - 17_18\DAM - M9\UF1\01_Exercicis\Ex2. Control d'accés\Ex2. Control d'accés - alumne\AccessControl\AccessControl\AccessControl\obj\Debug\AccessControl.Properties.Resources.resources
+C:\Users\Roger\Dropbox\La Salle - 17_18\DAM - M9\UF1\01_Exercicis\Ex2. Control d'accés\Ex2. Control d'accés - alumne\AccessControl\AccessControl\AccessControl\obj\Debug\AccessControl.csproj.GenerateResource.Cache
+C:\Users\marca\OneDrive\Escritorio\AccessControl\AccessControl\obj\Debug\AccessControl.exe
+C:\Users\marca\OneDrive\Escritorio\AccessControl\AccessControl\obj\Debug\AccessControl.pdb
