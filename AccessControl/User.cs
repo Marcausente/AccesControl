@@ -31,14 +31,12 @@ namespace AccessControl
 
         public void AddUser()
         {
-            // Aplicamos hash SHA256
             using (SHA256 sha256 = SHA256.Create())
             {
                 byte[] hashBytes = sha256.ComputeHash(Encoding.UTF8.GetBytes(Password_PlainText));
                 this.Password_Hash = BytesToStringHex(hashBytes);
             }
 
-            // Generamos un salt aleatorio de 32 bytes
             byte[] saltBytes = new byte[32];
             using (var rng = RandomNumberGenerator.Create())
             {
@@ -46,7 +44,6 @@ namespace AccessControl
             }
             this.Salt = BytesToStringHex(saltBytes);
 
-            // Aplicamos hash + salt con SHA256
             using (SHA256 sha256 = SHA256.Create())
             {
                 byte[] saltedPassword = Encoding.UTF8.GetBytes(Password_PlainText + Salt);
@@ -54,7 +51,6 @@ namespace AccessControl
                 this.Password_SaltedHash = BytesToStringHex(hashBytes);
             }
 
-            // Aplicamos hash lento con PBKDF2 (Rfc2898DeriveBytes)
             using (var pbkdf2 = new Rfc2898DeriveBytes(Password_PlainText, saltBytes, 10000, HashAlgorithmName.SHA256))
             {
                 byte[] hashBytes = pbkdf2.GetBytes(32); // 32 bytes = 256 bits
